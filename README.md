@@ -1,14 +1,32 @@
 # 🔍 Basic Recon
 
-Advanced Cybersecurity Recon & Password Audit Toolkit
+Cybersecurity Recon & Password Audit Toolkit
 
+Basic Recon is an open-source cybersecurity toolkit developed in Python to simplify the reconnaissance phase of security assessments. Rather than relying on multiple standalone tools and switching between different terminal sessions, this project provides a centralized command-line interface that combines several essential reconnaissance and password analysis utilities into one lightweight application.
+
+
+
+<img width="391" height="305" alt="Screenshot 2026-07-04 171101" src="https://github.com/user-attachments/assets/a25af923-1d75-4b34-9af7-67471955791c" />
 
 ---
+
+# 📋 Included Modules
+
+| Module                | Description                                       |
+| --------------------- | ------------------------------------------------- |
+| Port Scanner          | Service and port enumeration using Nmap           |
+| Network Discovery     | Local network discovery using Bettercap           |
+| Subdomain Enumeration | Certificate Transparency enumeration              |
+| Email Scraper         | Website email harvesting                          |
+| Hash Cracker          | Dictionary attacks against MD5, SHA-1 and SHA-256 |
+| Password Analyzer     | Password strength estimation using zxcvbn         |
+---
+
 
 # 🏗 Project Architecture
 
 ```text
-Basic-Recon
+BasicRecon
 │
 ├── main.py
 │
@@ -25,14 +43,6 @@ Basic-Recon
 │
 └── requirements.txt
 ```
-
-
-
-# 📸 Screenshots
-
-
-
----
 
 # ⚡ Installation
 
@@ -88,21 +98,6 @@ Run with:
 ```bash
 sudo python3 main.py
 ```
-
----
-
-# 📋 Included Modules
-
-| Module                | Description                                       |
-| --------------------- | ------------------------------------------------- |
-| Port Scanner          | Service and port enumeration using Nmap           |
-| Network Discovery     | Local network discovery using Bettercap           |
-| Subdomain Enumeration | Certificate Transparency enumeration              |
-| Email Scraper         | Website email harvesting                          |
-| Hash Cracker          | Dictionary attacks against MD5, SHA-1 and SHA-256 |
-| Password Analyzer     | Password strength estimation using zxcvbn         |
-
----
 
 
 # 🤝 Contributing
