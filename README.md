@@ -39,7 +39,7 @@ Basic-Recon
 ## Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Basic-Recon.git
+git clone https://github.com/1yusf/BasicRecon.git
 ```
 
 ```bash
