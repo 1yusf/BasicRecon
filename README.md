@@ -43,7 +43,7 @@ git clone https://github.com/1yusf/BasicRecon.git
 ```
 
 ```bash
-cd Basic-Recon
+cd BasicRecon
 ```
 
 ---
