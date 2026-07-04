@@ -1,8 +1,8 @@
 # 🔍 Basic Recon
 
-Cybersecurity Recon & Password Audit Toolkit
 
-Basic Recon is an open-source cybersecurity toolkit developed in Python to simplify the reconnaissance phase of security assessments. Rather than relying on multiple standalone tools and switching between different terminal sessions, this project provides a centralized command-line interface that combines several essential reconnaissance and password analysis utilities into one lightweight application.
+Basic Recon is an open-source cybersecurity toolkit developed in Python. Rather than relying on multiple standalone tools and switching between different terminal sessions, this project provides a centralized command-line interface that combines multiple tools into one lightweight application.
+
 
 
 
